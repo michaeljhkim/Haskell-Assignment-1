@@ -1,2 +1,2 @@
-# Haskell-Exercise-9
+# Haskell-Assignment-9
 Added class assignment for future reference 
