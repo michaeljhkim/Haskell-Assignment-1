@@ -1,2 +1,2 @@
-# Haskell-Assignment-9
+# Haskell-Assignment-1
 Added class assignment for future reference 
